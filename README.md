@@ -200,6 +200,5 @@ df_transformed.write.jdbc(
     properties=connection_properties
 )
 
-
-#### Conclusion
+**Conclusion**
 -This project successfully built a scalable and secure data pipeline using Azure Databricks, Azure Data Factory, and Azure SQL Database to process and store healthcare data. The pipeline efficiently ingests, transforms, and loads patient records, enabling better data analysis and reporting.
